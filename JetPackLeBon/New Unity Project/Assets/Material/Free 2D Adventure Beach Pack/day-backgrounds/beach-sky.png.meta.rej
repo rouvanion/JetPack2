@@ -1,0 +1,14 @@
+diff a/New Unity Project/Assets/Material/Free 2D Adventure Beach Pack/day-backgrounds/beach-sky.png.meta b/New Unity Project/Assets/Material/Free 2D Adventure Beach Pack/day-backgrounds/beach-sky.png.meta	(rejected hunks)
+@@ -1,10 +1,9 @@
+ fileFormatVersion: 2
+ guid: 36af45f817607e24a8da35618654b7cc
+-timeCreated: 1486047071
+-licenseType: Store
+ TextureImporter:
+   fileIDToRecycleName: {}
+-  serializedVersion: 4
++  externalObjects: {}
++  serializedVersion: 7
+   mipmaps:
+     mipMapMode: 0
+     enableMipMap: 0
